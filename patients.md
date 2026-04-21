@@ -1,3 +1,6 @@
+# Patients de SénSanté
+
+1. Aminata Sow - Dakar - 34 ans - Fièvre
 
 1. Aminata Sow - Thiès - 35 ans - Toux
 2. Ibrahima Ba - Thiès - 45 ans
